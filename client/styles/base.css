@@ -24,3 +24,8 @@ a:hover {
   border-bottom: 2px solid blue;
   text-align: center;
 }
+
+body {
+	margin: 0;
+	padding: 0;
+}
